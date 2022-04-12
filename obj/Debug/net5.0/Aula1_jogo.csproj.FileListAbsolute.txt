@@ -1,0 +1,16 @@
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.exe
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.deps.json
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.runtimeconfig.json
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.runtimeconfig.dev.json
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.dll
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\bin\Debug\net5.0\Aula1_jogo.pdb
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.AssemblyInfoInputs.cache
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.AssemblyInfo.cs
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.dll
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\refint\Aula1_jogo.dll
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.pdb
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\Aula1_jogo.genruntimeconfig.cache
+C:\Users\nanar\source\repos\CSharpBasico\Aula1_jogo\obj\Debug\net5.0\ref\Aula1_jogo.dll
